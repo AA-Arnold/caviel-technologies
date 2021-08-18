@@ -272,6 +272,12 @@ body {
   .feature-box:hover {
     transform: translateY(-1.5rem) scale(1.03); }
 
+.navigation__link {
+  display: none; }
+
+.navigation__checkbox:checked ~ .navigation__nav .navigation__list .navigation__item .navigation__link:link, .navigation__checkbox:checked ~ .navigation__nav .navigation__list .navigation__item .navigation__link:visited {
+  display: inline-block; }
+
 .navigation__checkbox {
   display: none; }
 
