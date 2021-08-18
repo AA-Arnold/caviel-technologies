@@ -20,18 +20,18 @@ for (var i = 0; i < navigation__link.length; i++) {
 }
 
 
-home.scrollIntoView({
-    behavior: 'smooth'
-});
+// home.scrollIntoView({
+//     behavior: 'smooth'
+// });
 
-services.scrollIntoView({
-    behavior: 'smooth'
-});
+// services.scrollIntoView({
+//     behavior: 'smooth'
+// });
 
-about.scrollIntoView({
-    behavior: 'smooth'
-});
+// about.scrollIntoView({
+//     behavior: 'smooth'
+// });
 
-contact.scrollIntoView({
-    behavior: 'smooth'
-});
+// contact.scrollIntoView({
+//     behavior: 'smooth'
+// });
